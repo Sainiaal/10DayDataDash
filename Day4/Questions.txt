@@ -1,0 +1,41 @@
+---
+
+### 📘 **Customer-Based Queries**
+
+1. List all customers from Mumbai.
+2. Show the total number of customers per city.
+3. Find customers who have placed more than 5 orders.
+4. Retrieve the names and emails of customers who ordered 'Dell Inspiron Laptop'.
+5. Show the top 5 customers with the highest number of total orders.
+
+---
+
+### 📦 **Product-Based Queries**
+
+6. List all products priced above ₹20,000.
+7. Find the product with the highest price.
+8. Show the 3 least sold products based on total quantity ordered.
+9. Calculate the average price of all products.
+10. List all products that have never been ordered.
+
+---
+
+### 📊 **Order-Based Queries**
+
+11. Show total sales (revenue) per product.
+12. Find the total number of orders placed in the last 30 days.
+13. Display the total quantity ordered per city.
+14. Find the top 3 products with the highest total revenue.
+15. Get monthly order counts for the past year.
+
+---
+
+### 🔁 **Join & Aggregate-Based Queries**
+
+16. List each order with customer name, product name, quantity, and order date.
+17. Show each customer’s total spend (price × quantity).
+18. Find customers who ordered more than 3 different products.
+19. List customers who bought both 'LG Refrigerator 260L' and 'Voltas Split AC 1.5T'.
+20. For each city, show total revenue generated.
+
+---
