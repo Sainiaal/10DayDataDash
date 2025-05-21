@@ -1,0 +1,40 @@
+--1. List the top 5 customers who placed the highest number of orders.
+--2. Retrieve customers who haven’t placed any orders.
+--3. For each customer, show their total number of orders and total order amount.
+
+--4. Show the average order value for customers who placed more than 2 orders.
+
+
+--5. Find customers who placed orders in at least 3 different months.
+
+--6. Find the 3 most ordered products by total quantity.
+--7. List products that were never sold.
+--8. For each product category, find the average product price.
+--9. Show all products with price higher than the average price of their category.
+--10. Which category generated the highest total revenue?
+--
+--11. Find the employee who handled the highest number of orders.
+--12. List employees who haven’t handled any orders.
+--13. For each employee, show their manager’s name and count of orders handled.
+--14. Get a count of orders each manager's team has handled.
+--15. Find the average number of orders handled per employee under each manager.
+--
+--16. Show the order with the maximum total amount.
+--17. For each order, show the number of items and total value.
+--18. List orders where all items were from the same category.
+--19. Retrieve orders that were shipped more than 2 days after the order date.
+--20. Find orders where discount was applied to all items.
+--
+--21. Compare monthly sales revenue between two consecutive years.
+--22. Show the month with the highest revenue and number of orders.
+--23. For each product, compute a running total of quantities sold (window function).
+--24. Rank customers by total amount spent in each quarter.
+--25. Show products that had increasing sales for 3 consecutive months.
+--26. Find products that were sold by all employees.
+--27. Which products have stock levels below the average stock across all products?
+
+--28. List the top 3 brands with the highest total sales value (quantity × list price).
+
+--29. Rank employees based on the number of orders they handled, with the highest getting rank 1.
+--30. Show top 3 customers per region by total purchase amount.
+
